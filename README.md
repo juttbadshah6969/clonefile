@@ -8,6 +8,7 @@ bash setup.sh
 ### And run this script
 ```
 cd
+rm -rf clonefile
 cd clonefile
 python2 jutt.py
 
