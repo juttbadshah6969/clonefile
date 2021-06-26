@@ -1,6 +1,7 @@
 ## How to install
 ```
 pkg intall git
+rm -rf clonefile
 git clone https://github.com/juttbadshah6969/clonefile
 cd clonefile
 bash setup.sh
