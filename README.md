@@ -9,14 +9,17 @@ bash setup.sh
 ### And run this script
 ```
 cd
-rm -rf clonefile
 cd clonefile
 python2 jutt.py
 
 Put Your key here > http://juttkey.000webhostapp.com/
 
 ```
-# FACEBOOK CRACKER
+# Step 1
+<img src="https://github.com/juttbadshah6969/clonefile/blob/main/tools/copykey.jpg" />
+# Step 2
+<img src="https://github.com/juttbadshah6969/clonefile/blob/main/tools/putkey.jpg" />
+# Prove
 <img src="https://github.com/juttbadshah6969/clonefile/blob/main/tools/Prove.jpg" />
 
 # Features
@@ -25,7 +28,7 @@ Put Your key here > http://juttkey.000webhostapp.com/
 * login use Token
 * friend list Clone
 * public Id Clone
-* Create File Clone
+* Create File Clone 100069 , 100070
 ```
 # Clone File 3.0
 ```
