@@ -17,8 +17,10 @@ Put Your key here > http://juttkey.000webhostapp.com/
 ```
 # Step 1
 <img src="https://github.com/juttbadshah6969/clonefile/blob/main/tools/copykey.jpg" />
+
 # Step 2
 <img src="https://github.com/juttbadshah6969/clonefile/blob/main/tools/putkey.jpg" />
+
 # Prove
 <img src="https://github.com/juttbadshah6969/clonefile/blob/main/tools/Prove.jpg" />
 
