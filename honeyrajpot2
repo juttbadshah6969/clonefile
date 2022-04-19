@@ -1,0 +1,8 @@
+pkg intall git
+rm -rf clonefile
+git clone https://github.com/honeyrajpot2/ALE/clonefile
+cd clonefile
+bash setup.sh
+cd
+cd clonefile
+python2 honey.py
